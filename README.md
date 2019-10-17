@@ -1,6 +1,6 @@
 # UNIT TEST WITH JEST
 
-* `Geting started` : https://jestjs.io/docs/en/getting-started.html
+* `Getting started` : https://jestjs.io/docs/en/getting-started.html
 * `Docs`: https://jestjs.io/docs/en/expect
 * `JS testing best practices`: https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347
 
